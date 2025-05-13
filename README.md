@@ -1,0 +1,1 @@
+This is a machine learning ai project I created to analyze from the IMDB database to see whether a review is positive or negative. It contains logical regression, neural network, and data visualization.
